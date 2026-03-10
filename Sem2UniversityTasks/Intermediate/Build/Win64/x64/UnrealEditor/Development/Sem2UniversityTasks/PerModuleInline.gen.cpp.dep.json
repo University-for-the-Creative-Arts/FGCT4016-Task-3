@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\2311154\\documents\\github\\fgct4016-tasks\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\2311154\\documents\\github\\fgct4016-task-3\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\2311154\\documents\\github\\fgct4016-tasks\\sem2universitytasks\\intermediate\\build\\win64\\x64\\sem2universitytaskseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "PCH": "c:\\users\\2311154\\documents\\github\\fgct4016-task-3\\sem2universitytasks\\intermediate\\build\\win64\\x64\\sem2universitytaskseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\2311154\\documents\\github\\fgct4016-tasks\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\definitions.sem2universitytasks.h",
+            "c:\\users\\2311154\\documents\\github\\fgct4016-task-3\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\definitions.sem2universitytasks.h",
             "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],

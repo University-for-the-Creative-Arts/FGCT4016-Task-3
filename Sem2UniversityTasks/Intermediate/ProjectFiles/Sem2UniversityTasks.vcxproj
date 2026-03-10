@@ -289,6 +289,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\Sem2UniversityTasks\TestActor.h"/>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\TestCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\TestCharacter.h"/>
     <ClCompile Include="..\..\Source\Sem2UniversityTasks\TestClass.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

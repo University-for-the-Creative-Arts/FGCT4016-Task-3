@@ -136,14 +136,14 @@ ATestActor::~ATestActor() {}
 // ********** End Class ATestActor *****************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics
+struct Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ATestActor, ATestActor::StaticClass, TEXT("ATestActor"), &Z_Registration_Info_UClass_ATestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestActor), 1064802955U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_702438828(TEXT("/Script/Sem2UniversityTasks"),
-	Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_702438828(TEXT("/Script/Sem2UniversityTasks"),
+	Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XfoVwNvJq5k=",
+  "dgSpecHash": "YODxEzxwE8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2311154\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\2311154\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",

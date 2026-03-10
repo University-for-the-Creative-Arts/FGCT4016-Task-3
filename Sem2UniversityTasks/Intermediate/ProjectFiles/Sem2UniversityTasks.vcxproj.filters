@@ -44,6 +44,12 @@
     <ClInclude Include="..\..\Source\Sem2UniversityTasks\TestActor.h">
       <Filter>Source\Sem2UniversityTasks</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\TestCharacter.cpp">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\TestCharacter.h">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Sem2UniversityTasks\TestClass.cpp">
       <Filter>Source\Sem2UniversityTasks</Filter>
     </ClCompile>

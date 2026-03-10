@@ -17,13 +17,13 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class ATestActor ***************************************************************
-#define FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGreeting);
 
 
 SEM2UNIVERSITYTASKS_API UClass* Z_Construct_UClass_ATestActor_NoRegister();
 
-#define FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATestActor(); \
 	friend struct Z_Construct_UClass_ATestActor_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ATestActor)
 
 
-#define FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ATestActor(ATestActor&&) = delete; \
 	ATestActor(const ATestActor&) = delete; \
@@ -44,13 +44,13 @@ public: \
 	NO_API virtual ~ATestActor();
 
 
-#define FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_9_PROLOG
-#define FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_GENERATED_BODY \
+#define FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_9_PROLOG
+#define FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -60,6 +60,6 @@ class ATestActor;
 // ********** End Class ATestActor *****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2311154_Documents_GitHub_FGCT4016_Tasks_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h
+#define CURRENT_FILE_ID FID_Users_2311154_Documents_GitHub_FGCT4016_Task_3_Sem2UniversityTasks_Source_Sem2UniversityTasks_TestActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

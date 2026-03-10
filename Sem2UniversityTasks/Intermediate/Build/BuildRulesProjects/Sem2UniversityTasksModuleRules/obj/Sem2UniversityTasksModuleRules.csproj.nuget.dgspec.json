@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj": {}
+    "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\5.6\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1256,14 +1256,14 @@
         }
       }
     },
-    "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj": {
+    "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
         "projectName": "Sem2UniversityTasksModuleRules",
-        "projectPath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
+        "projectPath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\Sem2UniversityTasksModuleRules.csproj",
         "packagesPath": "C:\\Users\\2311154\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Tasks\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Intermediate\\Build\\BuildRulesProjects\\Sem2UniversityTasksModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
