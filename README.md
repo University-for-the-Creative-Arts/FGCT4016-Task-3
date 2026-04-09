@@ -1,8 +1,8 @@
-# FGCT4016 Task 1 'Reflection System'
+# FGCT4016 Task 3 'Input and Player Control'
 
 ## 1. Introduction
 
-The task outlined was to create an Unreal Engine 5 project using C++ that uses its blueprint reflection system to have a class have a reflected function and/or function. The approach used was to create a class that derives itself from AActor, the base class for 'physical' objects in Unreal Engine 5. Then a function was made that was blueprint callable that would output a text message when called. This task is necessary to do due to most aspects of game development deriving from skills learnt in from task, especially since creating functions, variables etc... that can be accessed in the editor streamlines the work flow for game designers to focus on tweaking and balancing rather than wrapping their head around complex code systems. On top of that, relying on C++ instead of blueprints allows for greater freedom in terms of what can be done in Unreal instead of working around complex context-dependent blueprint nodes. From a programmer's perspective, working with raw code along with blueprints is useful as smaller tasks for a game can simply be programmed with blueprints, while complex systems can be done with code.
+The task outlined was to create an Unreal Engine 5 project using C++ that uses atleast one input action, either movement controls or camera controls, that use Enhanced Input in C++, with atleast one parameter being exposed to blueprints for testing.
 
 ## 2. Implementation
 

@@ -11,26 +11,18 @@ ATestActor::ATestActor()
 
 }
 
-
-void ATestActor::OnConstruction(const FTransform& Transform)
-{
-	Super::OnConstruction(Transform);
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, TEXT("I'm constructing it"));
-}
-
-
 // Called when the game starts or when spawned
 void ATestActor::BeginPlay()
 {
 	Super::BeginPlay();
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, TEXT("I am playing it"));
+	
 }
 
 // Called every frame
 void ATestActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	;	Greeting();
+
 }
 
 void ATestActor::Greeting()

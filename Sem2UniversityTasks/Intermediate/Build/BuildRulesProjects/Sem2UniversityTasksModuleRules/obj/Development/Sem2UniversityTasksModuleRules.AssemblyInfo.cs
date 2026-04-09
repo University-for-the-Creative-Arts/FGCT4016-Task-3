@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sem2UniversityTasksModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1415b38a4fc6e183969ee774e0d8f0c3ee3acc73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3789a1695de987da4ae66fcbb39f68e42187430")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sem2UniversityTasksModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sem2UniversityTasksModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

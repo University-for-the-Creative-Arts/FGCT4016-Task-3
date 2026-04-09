@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasks\\Sem2UniversityTasks.Build.cs",
-		"C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasks.Target.cs",
-		"C:\\Users\\2311154\\Documents\\GitHub\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasksEditor.Target.cs"
+		"D:\\Unreal cpp\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasks\\Sem2UniversityTasks.Build.cs",
+		"D:\\Unreal cpp\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasks.Target.cs",
+		"D:\\Unreal cpp\\FGCT4016-Task-3\\Sem2UniversityTasks\\Source\\Sem2UniversityTasksEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }
