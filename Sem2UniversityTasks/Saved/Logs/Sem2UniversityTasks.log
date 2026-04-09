@@ -5710,3 +5710,133 @@ Script Stack (0 frames) :
 [2026.04.09-14.08.14:354][575]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.04.09-14.08.47:275][674]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.04.09-14.09.02:746][720]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.09.16:941][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.09-14.09.16:944][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.044
+[2026.04.09-14.09.24:538][785]LogDerivedDataCache: C:/Users/SACHA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.09-14.10.11:758][927]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.10.24:175][119]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.10.34:454][150]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.11.04:463][348]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.11.48:115][479]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.12.08:339][539]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.12.25:304][590]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.12.35:824][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.12.50:347][665]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.13.25:881][771]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.13.40:885][816]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.14.16:280][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.09-14.14.57:344][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4043.390869
+[2026.04.09-14.14.58:345][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.14.58:345][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4044.058594, Update Interval: 330.806610
+[2026.04.09-14.19.17:473][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.09-14.19.17:476][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.035
+[2026.04.09-14.21.07:445][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4413.492188
+[2026.04.09-14.21.08:440][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.21.08:440][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4414.160645, Update Interval: 352.664581
+[2026.04.09-14.27.53:540][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4819.584473
+[2026.04.09-14.27.54:539][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.27.54:539][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4820.251953, Update Interval: 325.965149
+[2026.04.09-14.29.17:955][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.09-14.29.17:957][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.035
+[2026.04.09-14.33.54:629][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5180.674316
+[2026.04.09-14.33.55:625][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.33.55:625][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5181.338867, Update Interval: 317.692200
+[2026.04.09-14.39.18:440][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.09-14.39.18:442][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.036
+[2026.04.09-14.40.09:722][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5555.770996
+[2026.04.09-14.40.10:723][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.40.10:723][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5556.437500, Update Interval: 315.943481
+[2026.04.09-14.46.25:140][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5931.187012
+[2026.04.09-14.46.26:141][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.46.26:141][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5931.853516, Update Interval: 336.049072
+[2026.04.09-14.49.18:921][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.09-14.49.18:923][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.034
+[2026.04.09-14.52.39:915][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6305.964355
+[2026.04.09-14.52.40:918][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.52.40:918][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6306.643066, Update Interval: 312.912994
+[2026.04.09-14.58.44:888][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6670.940430
+[2026.04.09-14.58.45:889][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-14.58.45:889][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6671.607422, Update Interval: 308.254639
+[2026.04.09-14.59.19:304][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.04.09-14.59.19:307][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.038
+[2026.04.09-15.04.26:557][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7012.631836
+[2026.04.09-15.04.27:557][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-15.04.27:557][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7013.298340, Update Interval: 300.553009
+[2026.04.09-15.05.07:170][328]LogSlate: Window 'MyGamemode' being destroyed
+[2026.04.09-15.05.21:660][696]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.09-15.05.21:671][696]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.09-15.05.21:671][696]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.04.09-15.05.21:679][696]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 7.880 ms (total: 245.344 ms)
+[2026.04.09-15.05.21:680][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.09-15.05.21:680][696]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2026.04.09-15.05.21:684][696]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.04.09-15.05.21:725][697]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.04.09-15.05.21:766][697]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.09-15.05.21:774][697]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.394 ms (total: 319.740 ms)
+[2026.04.09-15.05.21:775][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049161s)
+[2026.04.09-15.05.21:775][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.049305s)
+[2026.04.09-15.05.21:813][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.04.09-15.05.21:816][697]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.04.09-15.05.21:820][697]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.09-15.05.21:820][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.09-15.05.21:820][697]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.09-15.05.21:821][697]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.09-15.05.21:833][697]LogWorldPartition: Display: WorldPartition initialize took 12.805 ms (total: 1.96 sec)
+[2026.04.09-15.05.21:833][697]LogPlayLevel: PIE: World Init took: (0.017771s)
+[2026.04.09-15.05.21:835][697]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.09-15.05.21:835][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.09-15.05.21:836][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.09-15.05.21:836][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.09-15.05.21:836][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.09-15.05.21:836][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.09-15.05.21:838][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.09-15.05.21:877][697]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.09-15.05.21:881][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.09-15.05.21:881][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.09-15.05.21:881][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.09-15.05.21:883][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.04.09-15.05.21:884][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.04.09-15.05.21:886][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.04.09-15.05.21:886][697]LogInit: FAudioDevice initialized with ID 44.
+[2026.04.09-15.05.21:886][697]LogAudio: Display: Audio Device (ID: 44) registered with world 'NewMap'.
+[2026.04.09-15.05.21:886][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.04.09-15.05.21:886][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.04.09-15.05.21:905][697]LogLoad: Game class is 'MyGamemode_C'
+[2026.04.09-15.05.21:909][697]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.04.09-16.05.21
+[2026.04.09-15.05.21:910][697]LogWorld: Bringing up level for play took: 0.004345
+[2026.04.09-15.05.21:921][697]LogStreaming: Display: FlushAsyncLoading(2703,2702,2701,2700,2699,2698,2697,2696,2695,2694,2693,2692,2691,2690,2689,2688,2687,2686,2685,2684,2683,2682,2681,2680,2679,2678,2677,2676,2675,2674,2673,2672,2671,2670,2669,2668,2667,2666,2665,2664,2663,2662,2661,2660): 44 QueuedPackages, 0 AsyncPackages
+[2026.04.09-15.05.22:355][697]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.04.09-15.05.22:355][697]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.04.09-15.05.22:355][697]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.04.09-15.05.22:356][697]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(MyMyCharacter_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyMyCharacter_C_0)
+[2026.04.09-15.05.22:358][697]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.04.09-15.05.22:360][697]PIE: Server logged in
+[2026.04.09-15.05.22:363][697]PIE: Play in editor total start time 0.691 seconds.
+[2026.04.09-15.05.22:567][698]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-15.05.27:733][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-15.05.27:733][973]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.04.09-15.05.27:749][973]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-15.05.27:749][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-15.05.27:749][973]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2026.04.09-15.05.27:752][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.09-15.05.27:761][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-15.05.27:809][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-15.05.27:809][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.04.09-15.05.27:809][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.04.09-15.05.27:812][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.04.09-15.05.27:835][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.04.09-15.05.28:048][974]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.04.09-15.09.24:538][736]LogDerivedDataCache: C:/Users/SACHA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.09-15.09.44:229][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.09-15.09.44:232][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.038
+[2026.04.09-15.10.23:506][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7369.574219
+[2026.04.09-15.10.24:509][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-15.10.24:509][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7370.243164, Update Interval: 341.115753

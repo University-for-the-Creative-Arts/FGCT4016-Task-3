@@ -2,47 +2,53 @@
 
 ## 1. Introduction
 
-The task outlined was to create an Unreal Engine 5 project using C++ that uses atleast one input action, either movement controls or camera controls, that use Enhanced Input in C++, with atleast one parameter being exposed to blueprints for testing.
+The task outlined was to create an Unreal Engine 5 project using C++ that uses at least one input action, either movement controls or camera controls, that use Enhanced Input in C++, with at least one parameter being exposed to blueprints for testing. This is useful to create movement systems for player characters, and allows for game designers to tweak values such as speed in blueprints while the programmers handle the actual logic of the movement system within the C++ scripts.
 
 ## 2. Implementation
 
-The project first began with the blank template from Unreal as the starting point, to ensure proper learning of creating content in Unreal Engine 5 without pre-existing objects.
+The project began with creating a C++ class that derives from ACharacter. Within ACharacter, code was written that sets up a Player Input Component to bind input actions to functions by triggering code with said input actions, which use enhanced input. In `BeginPlay`, it sets up the input mapping context when the game begins by casting to the player controller. In `Move`, it sets up movement by having two directions, forward (which is the direction the player camera is facing), and right (along the X axis). This allows for all 4 directions to be used since backwards and left are simply forward and right but in negative magnitudes. The variable `Movementspeed`, which is 600f by default, it exposed to blueprints to change the character's movement speed
 
-Then, a class that inherits from `AActor `was created. This was to allow for future proofing, as it can be placed on the world for future revisions of this Task
+![Alt text](./gitimages/a.png "MyCharacter.h")
 
-Then, a function called `Greeting` was created and had code attached to make it write text on the screen of the game when the function was called. `Greeting` is made to be `BluePrintCallable` to ensure it can be used in the editor.
-
-`public:
-	UFUNCTION(BlueprintCallable)
-	virtual void Greeting();
-`
-[ Figure 1. TestActor.h's code declaring `Greeting`  .]
-
-`void ATestActor::Greeting()
-{
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, TEXT("Hello there!"));
-}`
+[ Figure 1. MyCharacter.h  .]
 
 
-[ Figure 2. TestActor.cpp's code of the function `Greeting`  .]
+![Alt text](./gitimages/acpp.png "MyCharacter.cpp")
 
-Then after writing the code that writes to the screen, to test if it is blueprint callable, it was called within the level's event tick, rather than `TestActor`'s itself, since `TestActor` isn't a blueprint class, so it does not have it's own blueprint. A copy of `TestActor` turned into a blueprint is possible, but any changes to `TestActor` would warrant having to reduplicate `TestActor` in future versions of the project.
+[ Figure 2. MyCharacter.cpp  .]
 
-![Alt text](./gitimages/blueprint.png "blueprint")
+Then, an input mapping context was made, along with an input action, a gamemode, a blueprint that inherits from `MyCharacter.cpp`
 
-[ Figure 3. The Level Blueprint calling `Greeting` per tick  .]
+The gamemode was set to have the blueprint version of `MyCharacter.cpp`, which had `IA_Move` and `IMC_Default` attached to it. `IMC_Default` uses `IA_Move` , and has controls for WASD. A and D simply use a negate and a scalar modifier, and W and S use a swizzle input action values and scalar modifier.
 
-![Alt text](./gitimages/ingame.png "ingame")
-[ Figure 4. Ingame screenshot of 'Hello There!' being written per tick on screen  .]
+In `IA_Move` the value type of the action is set to `Axis2D` to ensure swizzle input action values works as intended.
+
+![Alt text](./gitimages/gm.png "The Gamemode")
+
+[ Figure 3. The Gamemode  .]
+
+![Alt text](./gitimages/imc.png "IMC_Default")
+
+[ Figure 4. IMC_Default  .]
+
+![Alt text](./gitimages/ia.png "IA_Move")
+
+[ Figure 5. IA_Move  .]
+
 
 ## 3. Outcome
 
-The project now functions where once the player loads in the to the level, per tick, a message on the screen appears displaying 'Hello there!'. This meets the task requirements are there is a class with a reflected function to blueprints, and to demonstrate said function in use, it has logic behind it and its being called by the level to test if the function works. 
+The project now allows a player character to spawn, and use the keyboard keys WASD to move up, down, left and right, and their diagonals. `MovementSpeed` is exposed to the editor to allow quick changes in magnitude of the variable without going into the C++ scripts, allowing ease of use by game designers.
 
 ### 3.1 Video Demonstration
 
+https://youtu.be/8TEkz5vrdDM
+
 ## 4. Bibliography
+
+Bug with Swizzle Input Axis Values: r/unrealengine (2023) At: https://www.reddit.com/r/unrealengine/comments/119erc7/bug_with_swizzle_input_axis_values/ (Accessed  09/04/2026).
+
 
 ## 5. AI Use Declaration
 
-The Epic Developer Assistant for Unreal Engine was used to figure out the function to output text to the screen, that being `AddOnScreenDebugMessage()`, as it is much more convenient for quick testing than outputting to the console since the initializing the game has a lot of text to scroll before the game even runs.
+No AI was used in the creation of files, nor in general assistance with creating the files
